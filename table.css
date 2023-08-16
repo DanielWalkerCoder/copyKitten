@@ -2,11 +2,11 @@
 margin: 35px 30px;}
 
 #cell-1 {
-    padding-left: 0px;
+    padding-left: 6px;
     border-left: 0px solid black;
     padding-right: 6px;
     border-right: 1px solid black;
-    padding-top: 0px;
+    padding-top: 8px;
     border-top: 0px solid black;
     padding-bottom: 8px;
     border-bottom: 2px solid black;
@@ -17,6 +17,7 @@ margin: 35px 30px;}
     border-left: 1px solid black;
     padding-right: 6px;
     border-right: 1px solid black;
+    padding-top: 8px;
     padding-bottom: 8px;
     border-bottom: 2px solid black;
 }
@@ -24,12 +25,14 @@ margin: 35px 30px;}
 #cell-3 {
     padding-left: 6px;
     border-left: 1px solid black;
+    padding-right: 6px;
+    padding-top: 8px;
     padding-bottom: 8px;
     border-bottom: 2px solid black;
 }
 
 #cell-4 {
-    padding-left: 0px;
+    padding-left: 6px;
     border-left: 0px solid black;
     padding-right: 6px;
     border-right: 1px solid black;
@@ -52,6 +55,7 @@ margin: 35px 30px;}
 #cell-6 {
     padding-left: 6px;
     border-left: 1px solid black;
+    padding-right: 6px;
     padding-top: 8px;
     border-top: 2px solid black;
     padding-bottom: 8px;
@@ -59,10 +63,12 @@ margin: 35px 30px;}
 }
 
 #cell-7 {
+    padding-left: 6px;
     padding-right: 6px;
     border-right: 1px solid black;
     padding-top: 8px;
     border-top: 2px solid black;
+    padding-bottom: 8px;
 }
 
 #cell-8 {
@@ -72,11 +78,14 @@ margin: 35px 30px;}
     border-right: 1px solid black;
     padding-top: 8px;
     border-top: 2px solid black;
+    padding-bottom: 8px;
 }
 
 #cell-9 {
     padding-left: 6px;
     border-left: 1px solid black;
+    padding-right: 6px;
     padding-top: 8px;
     border-top: 2px solid black;
+    padding-bottom: 6px;
 }

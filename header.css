@@ -5,7 +5,7 @@ li {list-style-type: none;
 li a {color: white;
 text-decoration: none;}
 
-li a:hover::after {color: #45867c;
+li a:hover {color: #45867c;
 
 }
 

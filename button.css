@@ -3,7 +3,6 @@
     font-size: 30px;
     color: white;
     padding: 12px 30px 20px 30px;
-    margin: 0 auto;
     text-transform: uppercase;
     text-decoration: none;
     border-radius: 10px;
@@ -11,6 +10,9 @@
 
 }
 
+.outside {display: flex;
+    justify-content: center;
+align-items: center;}
 
-#button:hover::after {box-shadow: 0;
+#button:hover {box-shadow: none;
 background-color: #3ea1e8;}
