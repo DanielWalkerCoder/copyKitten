@@ -1,0 +1,82 @@
+.row {font-size: 30px;
+margin: 35px 30px;}
+
+#cell-1 {
+    padding-left: 0px;
+    border-left: 0px solid black;
+    padding-right: 6px;
+    border-right: 1px solid black;
+    padding-top: 0px;
+    border-top: 0px solid black;
+    padding-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+
+#cell-2 {
+    padding-left: 6px;
+    border-left: 1px solid black;
+    padding-right: 6px;
+    border-right: 1px solid black;
+    padding-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+
+#cell-3 {
+    padding-left: 6px;
+    border-left: 1px solid black;
+    padding-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+
+#cell-4 {
+    padding-left: 0px;
+    border-left: 0px solid black;
+    padding-right: 6px;
+    border-right: 1px solid black;
+    padding-top: 8px;
+    border-top: 2px solid black;
+    padding-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+
+#cell-5 {
+    padding-left: 6px;
+    border-left: 1px solid black;
+    padding-right: 6px;
+    border-right: 1px solid black;
+    padding-top: 8px;
+    border-top: 2px solid black;
+    padding-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+#cell-6 {
+    padding-left: 6px;
+    border-left: 1px solid black;
+    padding-top: 8px;
+    border-top: 2px solid black;
+    padding-bottom: 8px;
+    border-bottom: 2px solid black;
+}
+
+#cell-7 {
+    padding-right: 6px;
+    border-right: 1px solid black;
+    padding-top: 8px;
+    border-top: 2px solid black;
+}
+
+#cell-8 {
+    padding-left: 6px;
+    border-left: 1px solid black;
+    padding-right: 6px;
+    border-right: 1px solid black;
+    padding-top: 8px;
+    border-top: 2px solid black;
+}
+
+#cell-9 {
+    padding-left: 6px;
+    border-left: 1px solid black;
+    padding-top: 8px;
+    border-top: 2px solid black;
+}
